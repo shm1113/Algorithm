@@ -60,8 +60,7 @@ public class Find_PY {
 	        answer= (p_num!=y_num)?false:true;
 	        return answer;
 	    }
-	   
-	   //
+
 } 
 
 ```
